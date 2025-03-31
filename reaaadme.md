@@ -4,6 +4,6 @@ third line
 fourth line
 fifth line
 sixth line
-seventh line
+seventh line in man branch
 eight line \n
 nine  line
